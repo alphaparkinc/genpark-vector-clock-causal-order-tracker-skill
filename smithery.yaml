@@ -1,0 +1,6 @@
+name: genpark-vector-clock-causal-order-tracker-skill
+version: 1.0.0
+description: Distributed vector clocks tracking causal concurrency, happens-before relations, and concurrent events
+command: python
+args:
+  - mcp_server.py
