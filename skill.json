@@ -1,0 +1,20 @@
+{
+  "name": "genpark-vector-clock-causal-order-tracker-skill",
+  "version": "1.0.0",
+  "description": "Distributed vector clocks tracking causal concurrency, happens-before relations, and concurrent events",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "vector-clocks",
+    "causal-ordering",
+    "happens-before",
+    "distributed-systems",
+    "concurrency",
+    "python-standard-library",
+    "agent-skills",
+    "lamport-timestamps",
+    "event-ordering",
+    "crdt"
+  ]
+}
